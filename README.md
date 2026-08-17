@@ -113,3 +113,19 @@ docker-compose up --build
 ```
 - Frontend Web App: `http://localhost:3000`
 - Backend API Docs: `http://localhost:8000/docs`
+- 
+---
+
+## 👨‍💻 Connect With Me
+
+**Lakshma Reddy**
+
+- 💻 **GitHub:** https://github.com/lakshmareddychilakala736-design
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lakshma-reddy-chilakala-3175b835b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 **Email:** lakshmareddychilakala736@gmail.com
+
+---
+
+### ⭐ If you like this project
+
+Give this repository a ⭐ on GitHub and feel free to connect with me!
